@@ -10,6 +10,10 @@ This is a dynamical mean-field theory (DMFT) tutorial for [2024 Strongly correla
 
 - **Optional homework**: Can you reproduce the finite temperature phase diagram of the DMFT metal-insulator transition using the provided code?
 
+## Dependency 
+
+The code is implemented in Python. Required packages are `jupyter`, `numpy`, `scipy`, `numba`.
+
 ## References
 <a id="1">[1]</a> 
 *Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions*,
