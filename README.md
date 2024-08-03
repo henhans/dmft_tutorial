@@ -12,6 +12,6 @@ This is a dynamical mean-field theory (DMFT) tutorial for [2024 Strongly correla
 
 ## References
 <a id="1">[1]</a> 
-Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions,
+*Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions*,
 A Georges, G Kotliar, W Krauth, MJ Rozenberg,
-Reviews of Modern Physics 68 (1), 13 (1996).
+Reviews of Modern Physics **68** (1), 13 (1996).
